@@ -1,0 +1,49 @@
+* {
+  box-sizing: border-box;
+}
+
+.container-fluid{
+  background-color: #819483;
+  overflow: hidden;
+  padding-top: 25px;
+  border-radius: 5px;
+}
+
+
+.jumbotron{
+  color: #166120;
+  background-color: #e6f0e7 !important;
+  overflow: hidden;
+}
+
+.navbar{
+  width: 100%;
+  z-index: 100;
+  margin-top: -80px;
+  background-color: #abb3ac;
+  float: right;
+  border-radius: 5px;
+}
+.navbar-brand{
+  color: #e6f0e7;
+}
+.nav-link{
+  color: #e6f0e7;
+}
+
+.btn{
+  /* background-color:#166120 !important; */
+  /* color: #166120 !important; */
+  float: right !important;
+}
+
+
+.page-footer{
+  background-color: #e6f0e7;
+  width: 100%;
+  border-radius: 5px;
+  float: right;
+  padding: 25px;
+  text-align: center;
+  border-radius: 5px;
+}
