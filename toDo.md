@@ -9,8 +9,14 @@
 
 
 
-* November 23,2020
+* December 11 ,2020
 - [x]resize photos 1040x760px
 - []footer create
 - [ ]spyscroll
 - []github repo
+
+* November 22-23, 2020
+- [] html shell
+- [] CSS
+- [] carouselSlide
+- [] bootstrap 
