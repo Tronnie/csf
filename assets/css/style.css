@@ -2,12 +2,7 @@
   box-sizing: border-box;
 }
 
-.container-fluid{
-  background-color: #819483;
-  overflow: hidden;
-  padding-top: 25px;
-  border-radius: 5px;
-}
+
 
 
 .jumbotron{
@@ -23,6 +18,7 @@
   background-color: #abb3ac;
   float: right;
   border-radius: 5px;
+  margin-bottom: -100px;
 }
 .navbar-brand{
   color: #e6f0e7;
@@ -37,13 +33,22 @@
   float: right !important;
 }
 
+.container-fluid{
+  background-color: #819483;
+  /* overflow: hidden; */
+  padding-top: 25px;
+  /* border-radius: 5px; */
+  margin-top: -25px;
+  margin-bottom: -15px;
+  padding-bottom: 25px;
+}
+
 
 .page-footer{
   background-color: #e6f0e7;
   width: 100%;
-  border-radius: 5px;
   float: right;
   padding: 25px;
   text-align: center;
-  border-radius: 5px;
+  /* border-radius: 5px; */
 }
