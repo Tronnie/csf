@@ -2,7 +2,8 @@
 
 ##MAIN PAGE##
 * December 20, 2020
-- [ ] fix markdown syntax in To Do List.  i.e. the syntax for check bos is **"- [ ] "**.
+- [x] fix markdown syntax in To Do List.  i.e. the syntax for check box is **"- [ ] "**.
+- [ ] carousel buttons are not working
 
 * December 19, 2020
 - [ ] change carousel to have arrows and maybe a pause button
