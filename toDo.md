@@ -1,6 +1,12 @@
 #TO DO#
 
 ##MAIN PAGE##
+* December 27, 2020
+- [ ] write copy
+- [ ] font choice
+- [ ] fix arrows
+- [ ]
+- [ ]
 * December 20, 2020
 - [x] fix markdown syntax in To Do List.  i.e. the syntax for check box is **"- [ ] "**.
 - [ ] carousel buttons are not working
@@ -9,8 +15,8 @@
 - [ ] change carousel to have arrows and maybe a pause button
 - [x] fix gap between nav and container
 - [x] fix github access
-- [ ] write copy
-- [ ] **issue:** window width at 560px must be changed to stack and not overcrowd.   
+- [>] write copy
+- [ ] **issue:** window width at 560px must be changed to stack/hamburger and not overcrowd.   
 
 
 * December 11 ,2020

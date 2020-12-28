@@ -44,7 +44,16 @@
 }
 
 .intro{
-  font-family: cursive;
+  text-align: justify;
+  text-justify: inter-word;
+  font-family: helvetica;
+}
+
+.body{
+  text-align: justify;
+  text-justify: inter-word;
+  font-family: helvetica;
+  margin-top: 20px;
 }
 
 
