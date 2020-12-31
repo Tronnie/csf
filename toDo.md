@@ -1,6 +1,9 @@
 #TO DO#
 
 ##MAIN PAGE##
+* December 31, 2020
+- [ ] flex grid for Servicios 
+
 * December 30, 2020
 - [x] FIXED prev/next arrow function!
 - [x] fix carousel caption to show on smaller screen
