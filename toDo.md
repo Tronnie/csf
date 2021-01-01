@@ -2,7 +2,10 @@
 
 ##MAIN PAGE##
 * December 31, 2020
-- [ ] flex grid for Servicios 
+- [ ] flex grid for Servicios
+- [ ] hamburger button for smaller screens
+- [ ]
+
 
 * December 30, 2020
 - [x] FIXED prev/next arrow function!
