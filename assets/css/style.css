@@ -2,9 +2,6 @@
   box-sizing: border-box;
 }
 
-
-
-
 .jumbotron{
   color: #166120;
   background-color: #e6f0e7 !important;
@@ -27,7 +24,6 @@
   color: #e6f0e7;
 }
 
-/* Add a black background color to the top navigation */
 .topnav {
   background-color: #abb3ac;
   overflow: hidden;
@@ -118,18 +114,26 @@
   display:flex;
 }
 
+#map {
+  height: 600px;
+  width: 90%;
+  background: #e6f0e7;
+  border-radius: 5px;
+
+}
 
 .page-footer{
   background-color: #e6f0e7;
   width: 100%;
-  float: right;
+  /* float: right; */
   padding: 25px;
   text-align: center;
-  /* border-radius: 5px; */
+  border-radius: 5px;
+  z-index: 100;
 }
 
+/* social media icons */
 .panel{
-  /* background-color:#166120; */
+  /* background-color:white; */
   /* display: grid; */
-
 }
