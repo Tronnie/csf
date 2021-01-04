@@ -1,11 +1,14 @@
 #TO DO#
 
 ##MAIN PAGE##
+* January 4, 20221
+- [ ] Click to call WhatsApp
+- [ ] mailto:
+- [ ]
 * January 1, 2021
 - [x] Map!
 - [ ] FIX footer issue
 - [ ] begin copy for FAQs
-- [ ]
 * December 31, 2020
 - [x] flex grid for Servicios
 - [x] hamburger button for smaller screens
