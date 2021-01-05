@@ -110,6 +110,11 @@
   margin-top: 20px;
 }
 
+a:link {
+  color: black;
+  /* background-color: blue; */
+}
+
 .container{
   display:flex;
 }
@@ -136,4 +141,5 @@
 .panel{
   /* background-color:white; */
   /* display: grid; */
+  padding-left: 50px;
 }

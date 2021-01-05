@@ -1,14 +1,19 @@
 #TO DO#
 
 ##MAIN PAGE##
+* January 5, 2021
+- [ ] footer
+- [x] faqs: write copy
+- [ ] rotulo con numero... photoshop mejoria?
+- [ ] edit spacing between sections
 * January 4, 20221
-- [ ] Click to call WhatsApp
-- [ ] mailto:
-- [ ]
+- [x] Click to call WhatsApp
+- [x] mailto:
+- [x] fix link colors
 * January 1, 2021
 - [x] Map!
 - [ ] FIX footer issue
-- [ ] begin copy for FAQs
+- [x] <del>begin copy for FAQs</del>
 * December 31, 2020
 - [x] flex grid for Servicios
 - [x] hamburger button for smaller screens
@@ -18,7 +23,7 @@
 - [x] copy for SERVICIOS section
 - [ ] modal for covid warning
 - [ ] return to top button
-- [ ] FAQs
+- [x] FAQs: get questions from Josue
 - [x] <del>map</del>
 * December 28, 2020
 - [x] download social media icons
