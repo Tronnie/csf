@@ -89,12 +89,12 @@
 
 .container-fluid{
   background-color: #819483;
-  /* overflow: hidden; */
+  /* overflow: hidden; */ /*will separate the nav from body*/
   padding-top: 25px;
   /* border-radius: 5px; */
   margin-top: -25px;
-  margin-bottom: -15px;
   padding-bottom: 25px;
+
 }
 
 .intro{
@@ -120,26 +120,35 @@ a:link {
 }
 
 #map {
-  height: 600px;
+  height: 450px;
   width: 90%;
   background: #e6f0e7;
   border-radius: 5px;
+}
+
+.btn-ft{
+  background-color:red;
 
 }
 
 .page-footer{
   background-color: #e6f0e7;
+  position: fixed;
+  left: 0;
+  bottom: 0;
   width: 100%;
   /* float: right; */
-  padding: 25px;
+  /* padding: 500px; */
   text-align: center;
   border-radius: 5px;
   z-index: 100;
+  /* margin-top: 100px; */
+  /* overflow: hidden; */
 }
 
 /* social media icons */
 .panel{
   /* background-color:white; */
   /* display: grid; */
-  padding-left: 50px;
+  padding-left: -50px;
 }

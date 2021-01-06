@@ -2,9 +2,9 @@
 
 ##MAIN PAGE##
 * January 5, 2021
-- [ ] footer
+- [x] footer issue
 - [x] faqs: write copy
-- [ ] rotulo con numero... photoshop mejoria?
+- [x] rotulo con numero... photoshop mejoria?
 - [ ] edit spacing between sections
 * January 4, 20221
 - [x] Click to call WhatsApp
@@ -12,7 +12,7 @@
 - [x] fix link colors
 * January 1, 2021
 - [x] Map!
-- [ ] FIX footer issue
+- [ ] <del>FIX footer issue</del>
 - [x] <del>begin copy for FAQs</del>
 * December 31, 2020
 - [x] flex grid for Servicios
