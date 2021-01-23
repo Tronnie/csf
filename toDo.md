@@ -1,6 +1,14 @@
 #TO DO#
 
 ##MAIN PAGE##
+* January 22, 2021
+- [x] font choice: Krub
+- [x] a link color
+- [x] footer padding-top
+- [x] google maps: pins, direcctions
+- [x] updated copy
+- [x] hosting service migration completed after three weeks!
+
 * January 5, 2021
 - [x] footer issue
 - [x] faqs: write copy
