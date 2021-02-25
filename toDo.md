@@ -1,6 +1,10 @@
 #TO DO#
 
 ##MAIN PAGE##
+* February 24, 2021
+- [ ] cPanel beta on ddw
+- [x] proof
+
 * January 22, 2021
 - [x] font choice: Krub
 - [x] a link color
