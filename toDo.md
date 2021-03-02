@@ -1,6 +1,9 @@
 #TO DO#
 
 ##MAIN PAGE##
+- [ ] cPanel beta on ddw
+- [x] update phone numbers
+
 * February 24, 2021
 - [ ] cPanel beta on ddw
 - [x] proof
